@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/newitem_label_name"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/textItemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/newitem_label_price"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/textItemPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/newitem_price"
+        android:inputType="numberDecimal" >
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/newitem_label_quantity"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/textItemQuantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number" >
+    </EditText>
+
+    <RadioGroup
+        android:id="@+id/radioPriorities"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <RadioButton
+            android:id="@+id/radioHighPriority"
+            android:layout_width="303dp"
+            android:layout_height="wrap_content"
+            android:text="@string/newitem_priority_high" />
+
+        <RadioButton
+            android:id="@+id/radioMediumPriority"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/newitem_priority_medium" />
+
+        <RadioButton
+            android:id="@+id/radioLowPriority"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/newitem_priority_low" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/buttonCreate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="createButtonClicked"
+        android:text="@string/newitem_create" />
+
+    <Button
+        android:id="@+id/buttonCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="cancelButtonClicked"
+        android:text="@string/newitem_cancel" />
+
+</LinearLayout>

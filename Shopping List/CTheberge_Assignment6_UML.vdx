@@ -1,0 +1,3309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument xmlns="http://schemas.microsoft.com/visio/2003/core"><DocumentSettings><GlueSettings>12</GlueSettings>
+<SnapSettings>52</SnapSettings>
+</DocumentSettings>
+<PrintSetup><PaperWidth>8.500000291400486</PaperWidth>
+<PaperHeight>11</PaperHeight>
+<PrintLandscape>0</PrintLandscape>
+<PageLeftMargin>0</PageLeftMargin>
+<PageRightMargin>0</PageRightMargin>
+<PageTopMargin>0</PageTopMargin>
+<PageBottomMargin>0</PageBottomMargin>
+<PrintCenteredH>1</PrintCenteredH>
+<PrintCenteredV>1</PrintCenteredV>
+</PrintSetup>
+<Fonts><FontEntry ID="0" Name="Calibri"/>
+</Fonts>
+<FaceNames><FaceName ID="0" Name="Calibri"/>
+</FaceNames>
+<Pages><Page ID="0" NameU="Static Structure-1"><PageSheet><RulerGrid><XGridSpacing>0.1111111111111111</XGridSpacing>
+<YGridSpacing>0.1111111111111111</YGridSpacing>
+</RulerGrid>
+<PageProps><PageScale>1</PageScale>
+<DrawingScale>1</DrawingScale>
+<PageWidth>8.500000291400486</PageWidth>
+<PageHeight>11</PageHeight>
+<DrawingSizeType>3</DrawingSizeType>
+<ShdwOffsetX>0</ShdwOffsetX>
+<ShdwOffsetY>0.05555555555555555</ShdwOffsetY>
+</PageProps>
+<Layer IX="0"><Name>Layer 1</Name>
+<Visible>1</Visible>
+<Print>1</Print>
+<Lock>0</Lock>
+</Layer>
+</PageSheet>
+<Shapes><Shape ID="1" Type="Group" Name="Group.1"><XForm><Angle>-0</Angle>
+<PinX>1.164245393541124</PinX>
+<PinY>8.031249403953552</PinY>
+<Width>1.828490787082248</Width>
+<Height>0.5500008530086942</Height>
+<LocPinX>0.9142453935411241</LocPinX>
+<LocPinY>0.2750004265043471</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.000000">0</TxtPinY>
+<TxtWidth F="Width*1.000000">1.828490787082248</TxtWidth>
+<TxtHeight F="Height*1.000000">0.5500008530086942</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<Shapes><Shape ID="2" Type="Shape" Name="Rectangle No Fill No Fill.2"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>0.913377337909681</PinX>
+<PinY>0.2758682303199578</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="3" Type="Shape" Name="Rectangle No Fill No Fill.3"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>0.913377337909681</PinX>
+<PinY>0.2758682303199578</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="4" Type="Shape" Name="Rectangle No Fill No Fill.4"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>0.913377337909681</PinX>
+<PinY>0.2758682303199578</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="5" Type="Shape" Name="Rectangle No Fill No Fill.5"><XForm><Angle>-2.896614057551693</Angle>
+<PinX>0.913192721610668</PinX>
+<PinY>0.2756317781191721</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">9.868649107779169e-17</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111309</X>
+<Y F="Height*1.000000">0.001736111111110716</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.00173611111111121</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">9.868649107779169e-17</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="6" Type="Shape" Name="Rectangle Fill:Custom.6"><XForm><Angle>-0</Angle>
+<PinX>0.9142453935411241</PinX>
+<PinY>0.08750000264909533</PinY>
+<Width>1.828490787082248</Width>
+<Height>0.1750000052981907</Height>
+<LocPinX>0.9142453935411241</LocPinX>
+<LocPinY>0.08750000264909533</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.079365">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">1.828490787082248</TxtWidth>
+<TxtHeight F="Height*0.841270">0.1472222275204129</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">1.828490787082248</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">1.828490787082248</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>0</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>0</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>+autoShop() : ArrayList&lt;ShoppingItem&gt;</Text>
+</Shape>
+
+<Shape ID="7" Type="Shape" Name="Rectangle Fill:Custom.7"><XForm><Angle>-0</Angle>
+<PinX>0.9142453935411241</PinX>
+<PinY>0.262499663564894</PinY>
+<Width>1.828490787082248</Width>
+<Height>0.1750000052981907</Height>
+<LocPinX>0.9142453935411241</LocPinX>
+<LocPinY>0.08750000264909533</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.396825">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">1.828490787082248</TxtWidth>
+<TxtHeight F="Height*0.206349">0.03611111640930176</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">1.828490787082248</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">1.828490787082248</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="8" Type="Shape" Name="Rectangle Fill:Custom.8"><XForm><Angle>-0</Angle>
+<PinX>0.9142453935411241</PinX>
+<PinY>0.4500008556577895</PinY>
+<Width>1.828490787082248</Width>
+<Height>0.1999999947018093</Height>
+<LocPinX>0.9142453935411241</LocPinX>
+<LocPinY>0.09999999735090467</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.069444">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">1.828490787082248</TxtWidth>
+<TxtHeight F="Height*0.861111">0.1722222169240316</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1999999947018093</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">1.828490787082248</X>
+<Y F="Height*1.000000">0.1999999947018093</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">1.828490787082248</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1999999947018093</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>1</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>1</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>1</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>AutoShopper</Text>
+</Shape>
+
+</Shapes>
+</Shape>
+
+<Shape ID="9" Type="Shape" Name="Rectangle No Fill No Fill.9"><XForm><Angle>-0</Angle>
+<PinX>4.25</PinX>
+<PinY>11.3555805683136</PinY>
+<Width>3.435135735405816</Width>
+<Height>0.7111611366271973</Height>
+<LocPinX>1.717567867702908</LocPinX>
+<LocPinY>0.3555805683135986</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.078120">0.05555555555555555</TxtPinY>
+<TxtWidth F="Width*1.000000">3.435135735405816</TxtWidth>
+<TxtHeight F="Height*0.843761">0.6000500255160861</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.7111611366271973</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3.435135735405816</X>
+<Y F="Height*1.000000">0.7111611366271973</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3.435135735405816</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.7111611366271973</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.05555555555555555</LeftMargin>
+<RightMargin>0.05555555555555555</RightMargin>
+<VerticalAlign>1</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>#C2C2C2</Color><Style>1</Style><Size>0.5</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>1</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>Static Structure</Text>
+</Shape>
+
+<Shape ID="10" Type="Group" Name="Group.10"><XForm><Angle>-0</Angle>
+<PinX>3.875</PinX>
+<PinY>7.416666662540684</PinY>
+<Width>3</Width>
+<Height>1.666666674918631</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.8333333374593153</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.000000">0</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*1.000000">1.666666674918631</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<Shapes><Shape ID="11" Type="Shape" Name="Rectangle No Fill No Fill.11"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.499200445515113</PinX>
+<PinY>0.8345501761892551</PinY>
+<Width>0.001599108829974961</Width>
+<Height>0.002433603404953388</Height>
+<LocPinX>0.0007995544149874804</LocPinX>
+<LocPinY>0.001216801702476694</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*28.535646">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001599108829974961</TxtWidth>
+<TxtHeight F="Height*-56.071291">-0.1364552854839355</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404954157</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*1.000000">0.002433603404954157</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404954157</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="12" Type="Shape" Name="Rectangle No Fill No Fill.12"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.499200445515113</PinX>
+<PinY>0.8345501761892551</PinY>
+<Width>0.001599108829974961</Width>
+<Height>0.002433603404953388</Height>
+<LocPinX>0.0007995544149874804</LocPinX>
+<LocPinY>0.001216801702476694</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*28.535646">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001599108829974961</TxtWidth>
+<TxtHeight F="Height*-56.071291">-0.1364552854839355</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404954157</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*1.000000">0.002433603404954157</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404954157</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="13" Type="Shape" Name="Rectangle No Fill No Fill.13"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.499200445515113</PinX>
+<PinY>0.8345501761892551</PinY>
+<Width>0.001599108829974961</Width>
+<Height>0.002433603404953388</Height>
+<LocPinX>0.0007995544149874804</LocPinX>
+<LocPinY>0.001216801702476694</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*28.535646">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001599108829974961</TxtWidth>
+<TxtHeight F="Height*-56.071291">-0.1364552854839355</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404954157</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*1.000000">0.002433603404954157</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404954157</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="14" Type="Shape" Name="Rectangle No Fill No Fill.14"><XForm><Angle>-2.930171751499454</Angle>
+<PinX>1.498988634774638</PinX>
+<PinY>0.8341029475627361</PinY>
+<Width>0.001460330652206195</Width>
+<Height>0.002834966406226158</Height>
+<LocPinX>0.0007301653261030975</LocPinX>
+<LocPinY>0.001417483203113079</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*24.495685">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001460330652206195</TxtWidth>
+<TxtHeight F="Height*-47.991370">-0.1360539224826627</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002834966406226947</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001460330652205657</X>
+<Y F="Height*1.000000">0.002834966406226158</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001460330652206447</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*-0.000000">-3.947459643111667e-16</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002834966406226947</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="15" Type="Shape" Name="Rectangle Fill:Custom.15"><XForm><Angle>-0</Angle>
+<PinX>1.5</PinX>
+<PinY>0.4867539900460708</PinY>
+<Width>3</Width>
+<Height>0.9735079800921418</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.4867539900460709</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.014267">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*0.971466">0.9457302023143641</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.9735079800921417</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3</X>
+<Y F="Height*1.000000">0.9735079800921417</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.9735079800921417</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>0</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>0</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Char IX="1"><Font>0</Font><Color>0</Color><Style>0</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Para IX="1"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>+addItem(in item : ShoppingItem)
++getAllItems() : ShoppingItem[]
++getByPriority(in priority : ShoppingPriority): ShoppingItem[] 
++sumTotal() : double
+<cp IX="1"/><pp IX="1"/>-sort()</Text>
+</Shape>
+
+<Shape ID="16" Type="Shape" Name="Rectangle Fill:Custom.16"><XForm><Angle>-0</Angle>
+<PinX>1.5</PinX>
+<PinY>1.179912350667992</PinY>
+<Width>3</Width>
+<Height>0.4128078499395142</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.2064039249697571</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.033645">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*0.932710">0.3850300721617365</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.412807849939514</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3</X>
+<Y F="Height*1.000000">0.412807849939514</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.412807849939514</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>0</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>0</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>-shoppingItems : ArrayList&lt;ShoppingItem&gt;</Text>
+</Shape>
+
+<Shape ID="17" Type="Shape" Name="Rectangle Fill:Custom.17"><XForm><Angle>-0</Angle>
+<PinX>1.5</PinX>
+<PinY>1.526491122506699</PinY>
+<Width>3</Width>
+<Height>0.2803511048238621</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.140175552411931</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.049541">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*0.900918">0.2525733270460843</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2803511048238623</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3</X>
+<Y F="Height*1.000000">0.2803511048238623</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2803511048238623</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>1</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>3</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>1</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>ShoppingList</Text>
+</Shape>
+
+</Shapes>
+</Shape>
+
+<Shape ID="18" Type="Group" Name="Group.18"><XForm><Angle>-0</Angle>
+<PinX>6.711370706558228</PinX>
+<PinY>9.826589968469408</PinY>
+<Width>1.327258586883545</Width>
+<Height>0.9031799369388156</Height>
+<LocPinX>0.6636292934417725</LocPinX>
+<LocPinY>0.4515899684694078</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.000000">0</TxtPinY>
+<TxtWidth F="Width*1.000000">1.327258586883545</TxtWidth>
+<TxtHeight F="Height*1.000000">0.9031799369388156</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<Shapes><Shape ID="19" Type="Shape" Name="Rectangle No Fill No Fill.19"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>0.4127612378103294</PinX>
+<PinY>0.4022813637292476</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="20" Type="Shape" Name="Rectangle No Fill No Fill.20"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>0.4127612378103294</PinX>
+<PinY>0.4022813637292476</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="21" Type="Shape" Name="Rectangle No Fill No Fill.21"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>0.4127612378103294</PinX>
+<PinY>0.4022813637292476</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="22" Type="Shape" Name="Rectangle No Fill No Fill.22"><XForm><Angle>-2.55359012071789</Angle>
+<PinX>0.4124255169764947</PinX>
+<PinY>0.4016540635542027</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111901</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111110322</X>
+<Y F="Height*1.000000">0.001736111111111901</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111901</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="23" Type="Shape" Name="Rectangle Fill:Custom.23"><XForm><Angle>-0</Angle>
+<PinX>0.4136292934417725</PinX>
+<PinY>0.08750000264909533</PinY>
+<Width>0.8272585868835449</Width>
+<Height>0.1750000052981907</Height>
+<LocPinX>0.4136292934417725</LocPinX>
+<LocPinY>0.08750000264909533</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.396825">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.8272585868835449</TxtWidth>
+<TxtHeight F="Height*0.206349">0.03611111640930176</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.8272585868835449</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.8272585868835449</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="24" Type="Shape" Name="Rectangle Fill:Custom.24"><XForm><Angle>-0</Angle>
+<PinX>0.4136292934417725</PinX>
+<PinY>0.3889128102196587</PinY>
+<Width>0.8272585868835449</Width>
+<Height>0.4278262456258138</Height>
+<LocPinX>0.4136292934417725</LocPinX>
+<LocPinY>0.2139131228129069</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.032464">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">0.8272585868835449</TxtWidth>
+<TxtHeight F="Height*0.935072">0.400048467848036</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.4278262456258138</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.8272585868835449</X>
+<Y F="Height*1.000000">0.4278262456258138</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.8272585868835449</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.4278262456258138</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>0</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>0</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>-High
+-Medium
+-Low</Text>
+</Shape>
+
+<Shape ID="25" Type="Shape" Name="Rectangle Fill:Custom.25"><XForm><Angle>-0</Angle>
+<PinX>0.4136292934417725</PinX>
+<PinY>0.7028271224763658</PinY>
+<Width>0.8272585868835449</Width>
+<Height>0.1999999947018093</Height>
+<LocPinX>0.4136292934417725</LocPinX>
+<LocPinY>0.09999999735090467</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.069444">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">0.8272585868835449</TxtWidth>
+<TxtHeight F="Height*0.861111">0.1722222169240316</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1999999947018093</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.8272585868835449</X>
+<Y F="Height*1.000000">0.1999999947018093</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.8272585868835449</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1999999947018093</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>1</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>1</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>1</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>ShoppingPriority</Text>
+</Shape>
+
+<Shape ID="26" Type="Shape" Name="Rectangle No Fill No Fill.26"><XForm><Angle>-0</Angle>
+<PinX>0.8272585868835449</PinX>
+<PinY>0.8028266761038039</PinY>
+<Width>1</Width>
+<Height>0.2007065216700236</Height>
+<LocPinX>0.5</LocPinX>
+<LocPinY>0.1003532608350118</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.346000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">1</TxtWidth>
+<TxtHeight F="Height*0.308000">0.06181763278113471</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2007065216700236</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">1</X>
+<Y F="Height*1.000000">0.2007065216700236</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">1</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2007065216700236</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+</Shapes>
+</Shape>
+
+<Shape ID="27" Type="Group" Name="Group.27"><XForm><Angle>-0</Angle>
+<PinX>0.9848649766710069</PinX>
+<PinY>7.025000426504347</PinY>
+<Width>1.219729953342014</Width>
+<Height>0.5500008530086942</Height>
+<LocPinX>0.6098649766710069</LocPinX>
+<LocPinY>0.2750004265043471</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.000000">0</TxtPinY>
+<TxtWidth F="Width*1.000000">1.219729953342014</TxtWidth>
+<TxtHeight F="Height*1.000000">0.5500008530086942</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<Shapes><Shape ID="28" Type="Shape" Name="Rectangle No Fill No Fill.28"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>0.6089969210395635</PinX>
+<PinY>0.2758682303199593</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="29" Type="Shape" Name="Rectangle No Fill No Fill.29"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>0.6089969210395635</PinX>
+<PinY>0.2758682303199593</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="30" Type="Shape" Name="Rectangle No Fill No Fill.30"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>0.6089969210395635</PinX>
+<PinY>0.2758682303199593</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="31" Type="Shape" Name="Rectangle No Fill No Fill.31"><XForm><Angle>-2.677945096238595</Angle>
+<PinX>0.6087003579686099</PinX>
+<PinY>0.2753883811940356</PinY>
+<Width>0.001736111111111111</Width>
+<Height>0.001736111111111111</Height>
+<LocPinX>0.0008680555555555555</LocPinX>
+<LocPinY>0.0008680555555555555</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*40.000000">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001736111111111111</TxtWidth>
+<TxtHeight F="Height*-79.000000">-0.1371527777777778</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001736111111110716</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001736111111111111</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001736111111111111</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="32" Type="Shape" Name="Rectangle Fill:Custom.32"><XForm><Angle>-0</Angle>
+<PinX>0.6098649766710069</PinX>
+<PinY>0.08750000264909533</PinY>
+<Width>1.219729953342014</Width>
+<Height>0.1750000052981907</Height>
+<LocPinX>0.6098649766710069</LocPinX>
+<LocPinY>0.08750000264909533</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.396825">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">1.219729953342014</TxtWidth>
+<TxtHeight F="Height*0.206349">0.03611111640930176</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">1.219729953342014</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">1.219729953342014</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="33" Type="Shape" Name="Rectangle Fill:Custom.33"><XForm><Angle>-0</Angle>
+<PinX>0.6098649766710069</PinX>
+<PinY>0.262499663564894</PinY>
+<Width>1.219729953342014</Width>
+<Height>0.1750000052981907</Height>
+<LocPinX>0.6098649766710069</LocPinX>
+<LocPinY>0.08750000264909533</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.396825">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">1.219729953342014</TxtWidth>
+<TxtHeight F="Height*0.206349">0.03611111640930176</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">1.219729953342014</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">1.219729953342014</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1750000052981907</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="34" Type="Shape" Name="Rectangle Fill:Custom.34"><XForm><Angle>-0</Angle>
+<PinX>0.6098649766710069</PinX>
+<PinY>0.4500008556577895</PinY>
+<Width>1.219729953342014</Width>
+<Height>0.1999999947018093</Height>
+<LocPinX>0.6098649766710069</LocPinX>
+<LocPinY>0.09999999735090467</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.069444">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">1.219729953342014</TxtWidth>
+<TxtHeight F="Height*0.861111">0.1722222169240316</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1999999947018093</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">1.219729953342014</X>
+<Y F="Height*1.000000">0.1999999947018093</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">1.219729953342014</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1999999947018093</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>1</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>1</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>1</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>ArrayList&lt;ShoppingItem&gt;</Text>
+</Shape>
+
+</Shapes>
+</Shape>
+
+<Shape ID="35" Type="Group" Name="Group.35"><XForm><Angle>-0</Angle>
+<PinX>1.21520635816786</PinX>
+<PinY>9.625</PinY>
+<Width>2.069587283664279</Width>
+<Height>2.5</Height>
+<LocPinX>1.03479364183214</LocPinX>
+<LocPinY>1.25</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.000000">0</TxtPinY>
+<TxtWidth F="Width*1.000000">2.069587283664279</TxtWidth>
+<TxtHeight F="Height*1.000000">2.5</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<Shapes><Shape ID="36" Type="Shape" Name="Rectangle No Fill No Fill.36"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.033733491655159</PinX>
+<PinY>1.284846197246139</PinY>
+<Width>0.002120300168598889</Width>
+<Height>0.004219139565381945</Height>
+<LocPinX>0.001060150084299444</LocPinX>
+<LocPinY>0.002109569782690972</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*16.459385">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.002120300168598889</TxtWidth>
+<TxtHeight F="Height*-31.918771">-0.1346697493235069</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.00421913956538194</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.002120300168598988</X>
+<Y F="Height*1.000000">0.00421913956538194</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.002120300168598988</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.00421913956538194</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="37" Type="Shape" Name="Rectangle No Fill No Fill.37"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.033733491655159</PinX>
+<PinY>1.284846197246139</PinY>
+<Width>0.002120300168598889</Width>
+<Height>0.004219139565381945</Height>
+<LocPinX>0.001060150084299444</LocPinX>
+<LocPinY>0.002109569782690972</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*16.459385">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.002120300168598889</TxtWidth>
+<TxtHeight F="Height*-31.918771">-0.1346697493235069</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.00421913956538194</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.002120300168598988</X>
+<Y F="Height*1.000000">0.00421913956538194</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.002120300168598988</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.00421913956538194</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="38" Type="Shape" Name="Rectangle No Fill No Fill.38"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.033733491655159</PinX>
+<PinY>1.284846197246139</PinY>
+<Width>0.002120300168598889</Width>
+<Height>0.004219139565381945</Height>
+<LocPinX>0.001060150084299444</LocPinX>
+<LocPinY>0.002109569782690972</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*16.459385">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.002120300168598889</TxtWidth>
+<TxtHeight F="Height*-31.918771">-0.1346697493235069</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.00421913956538194</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.002120300168598988</X>
+<Y F="Height*1.000000">0.00421913956538194</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.002120300168598988</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.00421913956538194</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="39" Type="Shape" Name="Rectangle No Fill No Fill.39"><XForm><Angle>-2.846095755885653</Angle>
+<PinX>1.033323478185383</PinX>
+<PinY>1.283321717061107</PinY>
+<Width>0.00133554153694778</Width>
+<Height>0.005709424200985167</Height>
+<LocPinX>0.0006677707684738902</LocPinX>
+<LocPinY>0.002854712100492584</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*12.163126">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.00133554153694778</TxtWidth>
+<TxtHeight F="Height*-23.326251">-0.1331794646879037</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*-0.000000">-9.868649107779169e-17</X>
+<Y F="Height*1.000000">0.005709424200985167</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001335541536947815</X>
+<Y F="Height*1.000000">0.005709424200985167</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001335541536947717</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*-0.000000">-9.868649107779169e-17</X>
+<Y F="Height*1.000000">0.005709424200985167</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="40" Type="Shape" Name="Rectangle Fill:Custom.40"><XForm><Angle>-0</Angle>
+<PinX>1.03479364183214</PinX>
+<PinY>0.694444503313229</PinY>
+<Width>2.069587283664279</Width>
+<Height>1.388889006626459</Height>
+<LocPinX>1.03479364183214</LocPinX>
+<LocPinY>0.6944445033132294</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.010000">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">2.069587283664279</TxtWidth>
+<TxtHeight F="Height*0.980000">1.361111228848681</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">1.388889006626459</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">2.069587283664279</X>
+<Y F="Height*1.000000">1.388889006626459</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">2.069587283664279</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">1.388889006626459</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>0</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>0</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>+getItemName() : string
++setItemName(string) : void
++getIndividualItemCost() : double
++setIndividualItemCost(double) : void
++getItemPriority() : ShoppingPriority
++setItemPriority(ShoppingPriority) : void
++getItemQuantity() : integer
++setItemQuantity(Integer) : void
++getTotalItemCost() : double</Text>
+</Shape>
+
+<Shape ID="41" Type="Shape" Name="Rectangle Fill:Custom.41"><XForm><Angle>-0</Angle>
+<PinX>1.03479364183214</PinX>
+<PinY>1.734157883697165</PinY>
+<Width>2.069587283664279</Width>
+<Height>0.6905377941367067</Height>
+<LocPinX>1.03479364183214</LocPinX>
+<LocPinY>0.3452688970683533</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.020113">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">2.069587283664279</TxtWidth>
+<TxtHeight F="Height*0.959774">0.6627600163589289</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.6905377941367068</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">2.069587283664279</X>
+<Y F="Height*1.000000">0.6905377941367068</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">2.069587283664279</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.6905377941367068</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>0</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>0</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>-itemCost : double
+-itemName : string
+-itemPriority : ShoppingPriority
+-itemQuantity : integer
+
+</Text>
+</Shape>
+
+<Shape ID="42" Type="Shape" Name="Rectangle Fill:Custom.42"><XForm><Angle>-0</Angle>
+<PinX>1.03479364183214</PinX>
+<PinY>2.289714838909374</PinY>
+<Width>2.069587283664279</Width>
+<Height>0.4205703221812526</Height>
+<LocPinX>1.03479364183214</LocPinX>
+<LocPinY>0.2102851610906263</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.033024">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">2.069587283664279</TxtWidth>
+<TxtHeight F="Height*0.933952">0.3927925444034748</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.4205703221812526</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">2.069587283664279</X>
+<Y F="Height*1.000000">0.4205703221812526</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">2.069587283664279</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.4205703221812526</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>1</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>1</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>1</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>ShoppingItem</Text>
+</Shape>
+
+</Shapes>
+</Shape>
+
+<Shape ID="43" Type="Group" Name="Group.43"><XForm><Angle>-0</Angle>
+<PinX>3.875</PinX>
+<PinY>5.625000005909559</PinY>
+<Width>3</Width>
+<Height>0.7500000118191174</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.3750000059095587</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.000000">0</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*1.000000">0.7500000118191174</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<Shapes><Shape ID="44" Type="Shape" Name="Rectangle No Fill No Fill.44"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.499200445515113</PinX>
+<PinY>0.2923359397839367</PinY>
+<Width>0.001599108829974961</Width>
+<Height>0.0013384818660973</Height>
+<LocPinX>0.0007995544149874803</LocPinX>
+<LocPinY>0.0006692409330486502</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*51.882992">0.06944444444444443</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001599108829974961</TxtWidth>
+<TxtHeight F="Height*-102.765985">-0.1375504070227916</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001338481866097949</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*1.000000">0.001338481866097949</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001338481866097949</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="45" Type="Shape" Name="Rectangle No Fill No Fill.45"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.499200445515113</PinX>
+<PinY>0.2923359397839367</PinY>
+<Width>0.001599108829974961</Width>
+<Height>0.0013384818660973</Height>
+<LocPinX>0.0007995544149874803</LocPinX>
+<LocPinY>0.0006692409330486502</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*51.882992">0.06944444444444443</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001599108829974961</TxtWidth>
+<TxtHeight F="Height*-102.765985">-0.1375504070227916</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001338481866097949</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*1.000000">0.001338481866097949</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001338481866097949</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="46" Type="Shape" Name="Rectangle No Fill No Fill.46"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.499200445515113</PinX>
+<PinY>0.2923359397839367</PinY>
+<Width>0.001599108829974961</Width>
+<Height>0.0013384818660973</Height>
+<LocPinX>0.0007995544149874803</LocPinX>
+<LocPinY>0.0006692409330486502</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*51.882992">0.06944444444444443</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001599108829974961</TxtWidth>
+<TxtHeight F="Height*-102.765985">-0.1375504070227916</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001338481866097949</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*1.000000">0.001338481866097949</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.001338481866097949</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="47" Type="Shape" Name="Rectangle No Fill No Fill.47"><XForm><Angle>-2.913109144711426</Angle>
+<PinX>1.498988634774638</PinX>
+<PinY>0.2920899640405707</PinY>
+<Width>0.001137916934533083</Width>
+<Height>0.001473619395660029</Height>
+<LocPinX>0.0005689584672665413</LocPinX>
+<LocPinY>0.0007368096978300147</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*47.125089">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001137916934533083</TxtWidth>
+<TxtHeight F="Height*-93.250177">-0.1374152694932289</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.00147361939565924</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001137916934533381</X>
+<Y F="Height*1.000000">0.001473619395660029</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001137916934533381</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*-0.000000">-7.894919286223335e-16</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.00147361939565924</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="48" Type="Shape" Name="Rectangle Fill:Custom.48"><XForm><Angle>-0</Angle>
+<PinX>1.5</PinX>
+<PinY>0.184381365776062</PinY>
+<Width>3</Width>
+<Height>0.368762731552124</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.184381365776062</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.037663">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*0.924673">0.3409849537743462</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.368762731552124</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3</X>
+<Y F="Height*1.000000">0.368762731552124</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.368762731552124</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>0</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>0</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>+getAdapter()
+</Text>
+</Shape>
+
+<Shape ID="49" Type="Shape" Name="Rectangle Fill:Custom.49"><XForm><Angle>-0</Angle>
+<PinX>1.5</PinX>
+<PinY>0.4822851348067737</PinY>
+<Width>3</Width>
+<Height>0.227044316342596</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.113522158171298</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.061173">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*0.877655">0.1992665385648182</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2270443163425963</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3</X>
+<Y F="Height*1.000000">0.2270443163425963</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2270443163425963</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>0</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>0</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>-adapter
+</Text>
+</Shape>
+
+<Shape ID="50" Type="Shape" Name="Rectangle Fill:Custom.50"><XForm><Angle>-0</Angle>
+<PinX>1.5</PinX>
+<PinY>0.672903458374274</PinY>
+<Width>3</Width>
+<Height>0.1541931068896866</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.07709655344484329</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.090075">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*0.819851">0.1264153291119088</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1541931068896866</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3</X>
+<Y F="Height*1.000000">0.1541931068896866</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.1541931068896866</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>1</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>1</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>1</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>DisplayableShoppingList</Text>
+</Shape>
+
+</Shapes>
+</Shape>
+
+<Shape ID="51" Type="Group" Name="Group.51"><XForm><Angle>-0</Angle>
+<PinX>3.875</PinX>
+<PinY>9.1875</PinY>
+<Width>3</Width>
+<Height>1.125</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.5625</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.000000">0</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*1.000000">1.125</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<Shapes><Shape ID="52" Type="Shape" Name="Rectangle No Fill No Fill.52"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.499200445515113</PinX>
+<PinY>0.292883501270625</PinY>
+<Width>0.001599108829974961</Width>
+<Height>0.002433603404953388</Height>
+<LocPinX>0.0007995544149874804</LocPinX>
+<LocPinY>0.001216801702476694</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*28.535646">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001599108829974961</TxtWidth>
+<TxtHeight F="Height*-56.071291">-0.1364552854839355</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404953367</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*1.000000">0.002433603404953367</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404953367</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="53" Type="Shape" Name="Rectangle No Fill No Fill.53"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.499200445515113</PinX>
+<PinY>0.292883501270625</PinY>
+<Width>0.001599108829974961</Width>
+<Height>0.002433603404953388</Height>
+<LocPinX>0.0007995544149874804</LocPinX>
+<LocPinY>0.001216801702476694</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*28.535646">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001599108829974961</TxtWidth>
+<TxtHeight F="Height*-56.071291">-0.1364552854839355</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404953367</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*1.000000">0.002433603404953367</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404953367</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="54" Type="Shape" Name="Rectangle No Fill No Fill.54"><XForm><Angle>-3.141592653589793</Angle>
+<PinX>1.499200445515113</PinX>
+<PinY>0.292883501270625</PinY>
+<Width>0.001599108829974961</Width>
+<Height>0.002433603404953388</Height>
+<LocPinX>0.0007995544149874804</LocPinX>
+<LocPinY>0.001216801702476694</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*28.535646">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001599108829974961</TxtWidth>
+<TxtHeight F="Height*-56.071291">-0.1364552854839355</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404953367</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*1.000000">0.002433603404953367</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001599108829975333</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.002433603404953367</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="55" Type="Shape" Name="Rectangle No Fill No Fill.55"><XForm><Angle>-2.930171751499454</Angle>
+<PinX>1.498988634774638</PinX>
+<PinY>0.2924362726441056</PinY>
+<Width>0.001460330652206195</Width>
+<Height>0.002834966406226158</Height>
+<LocPinX>0.0007301653261030975</LocPinX>
+<LocPinY>0.001417483203113079</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*24.495685">0.06944444444444445</TxtPinY>
+<TxtWidth F="Width*1.000000">0.001460330652206195</TxtWidth>
+<TxtHeight F="Height*-47.991370">-0.1360539224826627</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>0</LinePattern>
+<LineWeight>0.01041666666666667</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*-0.000000">-3.947459643111667e-16</X>
+<Y F="Height*1.000000">0.002834966406226158</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">0.001460330652205262</X>
+<Y F="Height*1.000000">0.002834966406226158</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">0.001460330652206052</X>
+<Y F="Height*-0.000000">-3.947459643111667e-16</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*-0.000000">-3.947459643111667e-16</X>
+<Y F="Height*-0.000000">-3.947459643111667e-16</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*-0.000000">-3.947459643111667e-16</X>
+<Y F="Height*1.000000">0.002834966406226158</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="56" Type="Shape" Name="Rectangle Fill:Custom.56"><XForm><Angle>-0</Angle>
+<PinX>1.5</PinX>
+<PinY>0.3125</PinY>
+<Width>3</Width>
+<Height>0.625</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.3125</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.022222">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*0.955556">0.5972222222222222</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.625</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3</X>
+<Y F="Height*1.000000">0.625</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.625</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>0</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>2</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>0</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>addItem(ShoppingItem item)
+getAllItems() : ShoppingItem[]
+getByPriority(in priority : ShoppingPriority): ShoppingItem[] 
+sumTotal() : double</Text>
+</Shape>
+
+<Shape ID="57" Type="Shape" Name="Rectangle Fill:Custom.57"><XForm><Angle>-0</Angle>
+<PinX>1.5</PinX>
+<PinY>0.7348247975786898</PinY>
+<Width>3</Width>
+<Height>0.2196496062808567</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.1098248031404283</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.063232">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*0.873536">0.1918718285030789</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2196496062808567</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3</X>
+<Y F="Height*1.000000">0.2196496062808567</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2196496062808567</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="58" Type="Shape" Name="Rectangle Fill:Custom.58"><XForm><Angle>-0</Angle>
+<PinX>1.5</PinX>
+<PinY>0.984824447588069</PinY>
+<Width>3</Width>
+<Height>0.2803511048238621</Height>
+<LocPinX>1.5</LocPinX>
+<LocPinY>0.140175552411931</LocPinY>
+</XForm>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.049541">0.01388888888888889</TxtPinY>
+<TxtWidth F="Width*1.000000">3</TxtWidth>
+<TxtHeight F="Height*0.900918">0.2525733270460843</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>1</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.0100000003973643</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+</Line>
+<Fill><FillPattern>1</FillPattern>
+<FillForegnd>1</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0.125</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.125</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>0</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2803511048238619</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*1.000000">3</X>
+<Y F="Height*1.000000">0.2803511048238619</Y>
+</LineTo>
+<LineTo IX="3"><X F="Width*1.000000">3</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="4"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</LineTo>
+<LineTo IX="5"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.2803511048238619</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+<TextBlock><LeftMargin>0.01388888888888889</LeftMargin>
+<RightMargin>0.01388888888888889</RightMargin>
+<VerticalAlign>1</VerticalAlign>
+<DefaultTabStop>0.3888888888888889</DefaultTabStop>
+</TextBlock>
+<Char IX="0"><Font>0</Font><Color>0</Color><Style>3</Style><Size>0.1111111111111111</Size><ColorTrans>0</ColorTrans></Char><Para IX="0"><IndFirst>0</IndFirst><IndLeft>0</IndLeft><IndRight>-0</IndRight><SpLine>-1.2</SpLine><SpBefore>0</SpBefore><HorzAlign>1</HorzAlign></Para><Text><cp IX="0"/><pp IX="0"/>IShoppingList</Text>
+</Shape>
+
+</Shapes>
+</Shape>
+
+<Shape ID="59" Type="Shape" Name="Graphic.59"><XForm><Angle>-0</Angle>
+<PinX>3.682318266895082</PinX>
+<PinY>8.4375</PinY>
+<Width>0.01388888888888889</Width>
+<Height>0.375</Height>
+<LocPinX>0.006944444444444444</LocPinX>
+<LocPinY>0.1875</LocPinY>
+</XForm>
+<XForm1D><BeginX>3.675373822450638</BeginX>
+<BeginY>8.25</BeginY>
+<EndX>3.675373822450638</EndX>
+<EndY>8.625</EndY>
+</XForm1D>
+<Layout><ConLineJumpCode>4</ConLineJumpCode>
+<ConLineJumpStyle>0</ConLineJumpStyle>
+<ShapeRouteStyle>2</ShapeRouteStyle>
+<ConLineRouteExt>1</ConLineRouteExt>
+</Layout>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.000000">0</TxtPinY>
+<TxtWidth F="Width*1.000000">0.01388888888888889</TxtWidth>
+<TxtHeight F="Height*1.000000">0.375</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>2</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.01388888888888889</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+<EndArrow>4</EndArrow>
+<EndArrowSize>2</EndArrowSize>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>0</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0.25</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.05555555555555555</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>1</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*0.000000">0</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.375</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+<Shape ID="60" Type="Shape" Name="Line Curved, Stroke:Obsidian.60"><XForm><Angle>-0</Angle>
+<PinX>3.682318266895082</PinX>
+<PinY>6.291666668450244</PinY>
+<Width>0.01388888888888889</Width>
+<Height>0.5833333132622514</Height>
+<LocPinX>0.006944444444444444</LocPinX>
+<LocPinY>0.2916666566311257</LocPinY>
+</XForm>
+<XForm1D><BeginX>3.675373822450638</BeginX>
+<BeginY>6.000000011819118</BeginY>
+<EndX>3.675373822450638</EndX>
+<EndY>6.583333325081369</EndY>
+</XForm1D>
+<Layout><ConLineJumpCode>4</ConLineJumpCode>
+<ConLineJumpStyle>0</ConLineJumpStyle>
+<ShapeRouteStyle>0</ShapeRouteStyle>
+<ConLineRouteExt>2</ConLineRouteExt>
+</Layout>
+<TextXForm><TxtPinX F="Width*0.000000">0</TxtPinX>
+<TxtPinY F="Height*0.000000">0</TxtPinY>
+<TxtWidth F="Width*1.000000">0.01388888888888889</TxtWidth>
+<TxtHeight F="Height*1.000000">0.5833333132622514</TxtHeight>
+<TxtLocPinX>0</TxtLocPinX>
+<TxtLocPinY>0</TxtLocPinY>
+</TextXForm>
+<Misc><ObjType>2</ObjType>
+</Misc>
+<Line><LinePattern>1</LinePattern>
+<LineWeight>0.01388888888888889</LineWeight>
+<LineColor>0</LineColor>
+<LineColorTrans>0</LineColorTrans>
+<Rounding>0</Rounding>
+<LineCap>0</LineCap>
+<EndArrow>4</EndArrow>
+<EndArrowSize>2</EndArrowSize>
+</Line>
+<Fill><FillPattern>0</FillPattern>
+<FillForegnd>0</FillForegnd>
+<FillForegndTrans>0</FillForegndTrans>
+<ShdwPattern>0</ShdwPattern>
+<ShdwForegnd>0</ShdwForegnd>
+<ShdwForegndTrans>0.25</ShdwForegndTrans>
+<ShapeShdwType>1</ShapeShdwType>
+<ShapeShdwOffsetX>0</ShapeShdwOffsetX>
+<ShapeShdwOffsetY>-0.05555555555555555</ShapeShdwOffsetY>
+</Fill>
+<Geom IX="0"><NoFill>1</NoFill>
+<NoLine>0</NoLine>
+<MoveTo IX="1"><X F="Width*0.000000">0</X>
+<Y F="Height*-0.000000">-7.894919286223335e-16</Y>
+</MoveTo>
+<LineTo IX="2"><X F="Width*0.000000">0</X>
+<Y F="Height*1.000000">0.5833333132622506</Y>
+</LineTo>
+</Geom>
+<LayerMem><LayerMember>0</LayerMember>
+</LayerMem>
+</Shape>
+
+</Shapes>
+<Connects><Connect ToCell="Connections.Row_4.X" FromSheet="59" FromPart="9" ToSheet="10" ToPart="104"/>
+<Connect ToCell="Connections.Row_5.X" FromSheet="59" FromPart="12" ToSheet="51" ToPart="105"/>
+<Connect ToCell="Connections.Row_4.X" FromSheet="60" FromPart="9" ToSheet="43" ToPart="104"/>
+<Connect ToCell="Connections.Row_5.X" FromSheet="60" FromPart="12" ToSheet="10" ToPart="105"/>
+</Connects>
+</Page>
+
+
+</Pages>
+<Windows><Window ContainerType="Page" WindowState="134217744" WindowType="Drawing" ViewScale="1.5" Page="0" ViewCenterY="8.319444444444445" ID="0" ViewCenterX="2.935185185185185"><ShowRulers>1</ShowRulers>
+<ShowGrid>1</ShowGrid>
+<ShowPageBreaks>1</ShowPageBreaks>
+<ShowConnectionPoints>0</ShowConnectionPoints>
+<GlueSettings>12</GlueSettings>
+<SnapSettings>54</SnapSettings>
+<TabSplitterPos>0.5</TabSplitterPos>
+</Window>
+
+</Windows></VisioDocument>
